@@ -1,0 +1,5 @@
+- iniciar um programa em C#
+
+1 - definir um namespace
+2 - criar uma classe Program com o método inicial Main
+3 - depois a classe que que vou querer instanciar
