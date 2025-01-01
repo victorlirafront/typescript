@@ -38,4 +38,5 @@ function handleTypes(input: any): void {
 handleTypes({ name: 'Victor' });
 handleTypes(42);
 handleTypes('Hello');
+
 // handleTypes(undefined); // Lança um erro!
