@@ -1,3 +1,4 @@
-import { primitiveTypes } from "./primitiveTypes";
+import '../styles.scss';
+import { callPrimitiveTypes } from "./primitiveTypes";
 
-primitiveTypes()
+callPrimitiveTypes();

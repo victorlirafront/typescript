@@ -1,4 +1,4 @@
-export function primitiveTypes(){
+export function callPrimitiveTypes(){
     // Primitive Types
     let userName: string = "Victor"; // Text
     let userAge: number = 30; // Number
