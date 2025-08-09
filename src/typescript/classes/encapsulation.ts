@@ -1,4 +1,4 @@
-class Person {
+export class Person {
     private _name: string;
   
     // CPF é readonly: só pode ser definido na criação e não pode ser alterado depois
